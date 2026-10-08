@@ -1,0 +1,601 @@
+order_date,order_id,customer_id,product,category,region,quantity,unit_price,discount_pct,payment_method
+2025-10-12,O0001,C013,Notebook,Stationery,South,1,180,10,Debit Card
+2025-12-02,O0002,C026,Pen Set,Stationery,North,2,250,13,UPI
+2025-07-30,O0003,C072,Water Bottle,Accessories,East,4,700,10,Cash
+2025-10-02,O0004,C069,Office Chair,Furniture,South,5,8500,13,Debit Card
+2025-06-27,O0005,C104,Backpack,Accessories,West,2,1800,13,Cash
+2025-03-02,O0006,C034,Keyboard,Electronics,East,2,1800,6,UPI
+2025-04-03,O0007,C057,Keyboard,Electronics,North,1,1800,14,Credit Card
+2025-08-28,O0008,C105,Wireless Mouse,Electronics,North,2,1200,11,Cash
+2025-07-09,O0009,C067,Laptop,Electronics,South,5,65000,4,Debit Card
+2025-07-22,O0010,C093,Keyboard,Electronics,North,3,1800,9,Cash
+2025-01-29,O0011,C086,Laptop,Electronics,East,5,65000,6,UPI
+2025-01-03,O0012,C049,Laptop,Electronics,North,3,65000,13,Credit Card
+2025-04-04,O0013,C117,Laptop,Electronics,East,5,65000,14,Debit Card
+2025-09-25,O0014,C109,Laptop,Electronics,East,3,65000,15,Cash
+2025-10-10,O0015,C029,Office Chair,Furniture,East,2,8500,15,Debit Card
+2025-08-14,O0016,C106,Keyboard,Electronics,South,1,1800,10,Credit Card
+2025-01-13,O0017,C048,Desk,Furniture,North,4,12000,10,Debit Card
+2025-08-31,O0018,C042,Backpack,Accessories,West,3,1800,5,Credit Card
+2025-11-14,O0019,C037,Wireless Mouse,Electronics,West,2,1200,5,Debit Card
+2025-12-07,O0020,C053,Water Bottle,Accessories,South,2,700,12,UPI
+2025-11-27,O0021,C103,Headphones,Electronics,South,2,3200,10,Cash
+2025-05-21,O0022,C115,Backpack,Accessories,North,5,1800,2,Credit Card
+2025-11-17,O0023,C055,Backpack,Accessories,North,2,1800,0,UPI
+2025-09-16,O0024,C027,Laptop,Electronics,East,4,65000,1,Cash
+2025-02-10,O0025,C058,Pen Set,Stationery,East,2,250,2,Cash
+2025-09-24,O0026,C107,Desk,Furniture,North,5,12000,15,Cash
+2025-11-19,O0027,C072,Desk,Furniture,North,1,12000,13,Cash
+2025-06-02,O0028,C110,Pen Set,Stationery,North,1,250,2,Credit Card
+2025-04-09,O0029,C094,Keyboard,Electronics,West,1,1800,15,UPI
+2025-05-27,O0030,C030,Keyboard,Electronics,North,3,1800,14,Cash
+2025-03-12,O0031,C080,Keyboard,Electronics,South,3,1800,15,Cash
+2025-12-23,O0032,C079,Office Chair,Furniture,East,5,8500,7,UPI
+2025-06-30,O0033,C075,Pen Set,Stationery,South,4,250,5,Debit Card
+2025-01-27,O0034,C090,Pen Set,Stationery,South,4,250,7,UPI
+2025-11-09,O0035,C050,Wireless Mouse,Electronics,South,3,1200,9,UPI
+2025-07-12,O0036,C113,Notebook,Stationery,North,3,180,0,Debit Card
+2025-12-07,O0037,C046,Headphones,Electronics,West,1,3200,14,UPI
+2025-06-17,O0038,C009,Keyboard,Electronics,North,1,1800,14,UPI
+2025-03-23,O0039,C034,Headphones,Electronics,North,3,3200,0,UPI
+2025-05-25,O0040,C022,Backpack,Accessories,South,2,1800,9,UPI
+2025-06-21,O0041,C073,Laptop,Electronics,East,4,65000,2,Cash
+2025-07-09,O0042,C085,Notebook,Stationery,North,3,180,12,Credit Card
+2025-11-08,O0043,C045,Backpack,Accessories,East,5,1800,11,Cash
+2025-06-15,O0044,C004,Notebook,Stationery,East,3,180,10,Credit Card
+2025-07-27,O0045,C114,Office Chair,Furniture,West,5,8500,14,UPI
+2025-03-17,O0046,C080,Laptop,Electronics,East,1,65000,7,Credit Card
+2025-05-28,O0047,C107,Backpack,Accessories,North,1,1800,13,Cash
+2025-06-26,O0048,C097,Headphones,Electronics,North,1,3200,13,Debit Card
+2025-06-30,O0049,C043,Laptop,Electronics,East,3,65000,13,Credit Card
+2025-06-07,O0050,C034,Keyboard,Electronics,North,3,1800,2,Debit Card
+2025-05-14,O0051,C088,Notebook,Stationery,South,2,180,6,UPI
+2025-04-20,O0052,C057,Backpack,Accessories,South,2,1800,10,Credit Card
+2025-05-18,O0053,C099,Wireless Mouse,Electronics,East,2,1200,3,Cash
+2025-03-13,O0054,C113,Laptop,Electronics,South,3,65000,10,Credit Card
+2025-09-22,O0055,C005,Office Chair,Furniture,South,1,8500,14,UPI
+2025-09-21,O0056,C006,Notebook,Stationery,West,5,180,1,UPI
+2025-11-26,O0057,C007,Laptop,Electronics,West,5,65000,5,Cash
+2025-01-06,O0058,C057,Desk,Furniture,East,5,12000,4,UPI
+2025-12-16,O0059,C090,Pen Set,Stationery,West,5,250,0,Cash
+2025-08-26,O0060,C059,Pen Set,Stationery,North,2,250,10,Debit Card
+2025-07-21,O0061,C106,Wireless Mouse,Electronics,East,3,1200,15,Debit Card
+2025-02-06,O0062,C071,Notebook,Stationery,North,4,180,15,UPI
+2025-12-01,O0063,C083,Desk,Furniture,South,2,12000,13,Debit Card
+2025-10-23,O0064,C030,Notebook,Stationery,East,3,180,9,Credit Card
+2025-09-04,O0065,C048,Office Chair,Furniture,East,3,8500,5,Debit Card
+2025-12-11,O0066,C078,Notebook,Stationery,North,2,180,8,Credit Card
+2025-06-30,O0067,C074,Laptop,Electronics,North,3,65000,2,UPI
+2025-12-23,O0068,C029,Pen Set,Stationery,East,3,250,14,Credit Card
+2025-11-04,O0069,C120,Desk,Furniture,West,5,12000,5,UPI
+2025-03-30,O0070,C052,Wireless Mouse,Electronics,South,3,1200,15,Debit Card
+2025-03-13,O0071,C022,Headphones,Electronics,West,4,3200,3,UPI
+2025-09-14,O0072,C090,Desk,Furniture,East,5,12000,10,Credit Card
+2025-04-02,O0073,C106,Wireless Mouse,Electronics,West,2,1200,5,Credit Card
+2025-04-26,O0074,C109,Laptop,Electronics,North,2,65000,3,Cash
+2025-11-30,O0075,C115,Backpack,Accessories,North,2,1800,14,Cash
+2025-11-06,O0076,C075,Notebook,Stationery,West,3,180,15,Cash
+2025-02-20,O0077,C080,Headphones,Electronics,South,4,3200,14,UPI
+2025-06-18,O0078,C014,Wireless Mouse,Electronics,West,4,1200,1,Credit Card
+2025-08-02,O0079,C088,Water Bottle,Accessories,East,2,700,5,Credit Card
+2025-06-26,O0080,C097,Pen Set,Stationery,East,4,250,12,Debit Card
+2025-06-08,O0081,C021,Headphones,Electronics,West,2,3200,11,Credit Card
+2025-11-26,O0082,C074,Laptop,Electronics,South,3,65000,0,Debit Card
+2025-07-25,O0083,C107,Laptop,Electronics,East,1,65000,6,Credit Card
+2025-12-10,O0084,C108,Water Bottle,Accessories,North,2,700,1,Cash
+2025-03-02,O0085,C072,Keyboard,Electronics,North,2,1800,11,Credit Card
+2025-04-05,O0086,C016,Keyboard,Electronics,South,2,1800,13,Debit Card
+2025-10-11,O0087,C065,Laptop,Electronics,North,2,65000,15,Credit Card
+2025-01-18,O0088,C053,Laptop,Electronics,South,2,65000,5,Debit Card
+2025-04-29,O0089,C061,Water Bottle,Accessories,West,3,700,15,UPI
+2025-09-18,O0090,C044,Water Bottle,Accessories,South,4,700,6,Cash
+2025-02-11,O0091,C078,Desk,Furniture,East,4,12000,5,Credit Card
+2025-11-21,O0092,C013,Desk,Furniture,North,4,12000,7,Cash
+2025-03-13,O0093,C055,Notebook,Stationery,South,3,180,3,Debit Card
+2025-04-15,O0094,C014,Headphones,Electronics,East,4,3200,5,Debit Card
+2025-07-26,O0095,C055,Pen Set,Stationery,North,5,250,6,Debit Card
+2025-07-31,O0096,C113,Desk,Furniture,West,5,12000,14,UPI
+2025-05-10,O0097,C023,Keyboard,Electronics,North,1,1800,3,Cash
+2025-11-21,O0098,C020,Notebook,Stationery,East,4,180,0,UPI
+2025-01-11,O0099,C095,Laptop,Electronics,West,5,65000,7,Credit Card
+2025-11-30,O0100,C037,Office Chair,Furniture,North,5,8500,9,Debit Card
+2025-11-10,O0101,C074,Wireless Mouse,Electronics,West,1,1200,10,Credit Card
+2025-02-13,O0102,C063,Wireless Mouse,Electronics,North,4,1200,13,UPI
+2025-11-11,O0103,C023,Keyboard,Electronics,South,3,1800,2,UPI
+2025-11-12,O0104,C036,Wireless Mouse,Electronics,North,2,1200,4,UPI
+2025-05-06,O0105,C017,Pen Set,Stationery,West,4,250,1,UPI
+2025-11-18,O0106,C003,Keyboard,Electronics,West,1,1800,10,Cash
+2025-07-30,O0107,C107,Laptop,Electronics,East,3,65000,0,UPI
+2025-04-19,O0108,C076,Pen Set,Stationery,North,1,250,9,Cash
+2025-12-28,O0109,C116,Headphones,Electronics,South,1,3200,1,Cash
+2025-05-15,O0110,C060,Laptop,Electronics,West,5,65000,5,Debit Card
+2025-03-27,O0111,C009,Keyboard,Electronics,East,3,1800,6,Credit Card
+2025-05-27,O0112,C049,Desk,Furniture,South,4,12000,9,UPI
+2025-08-25,O0113,C057,Wireless Mouse,Electronics,West,4,1200,14,UPI
+2025-12-19,O0114,C089,Office Chair,Furniture,North,3,8500,3,Cash
+2025-06-10,O0115,C110,Water Bottle,Accessories,North,4,700,15,Credit Card
+2025-08-24,O0116,C019,Desk,Furniture,North,5,12000,10,UPI
+2025-07-20,O0117,C098,Pen Set,Stationery,South,5,250,3,Cash
+2025-02-01,O0118,C025,Desk,Furniture,West,4,12000,0,Credit Card
+2025-01-16,O0119,C051,Backpack,Accessories,North,1,1800,8,Credit Card
+2025-04-30,O0120,C013,Desk,Furniture,West,3,12000,9,Debit Card
+2025-05-14,O0121,C027,Office Chair,Furniture,North,5,8500,15,Cash
+2025-01-21,O0122,C014,Keyboard,Electronics,West,3,1800,0,Debit Card
+2025-11-13,O0123,C006,Keyboard,Electronics,South,3,1800,14,Credit Card
+2025-12-21,O0124,C070,Laptop,Electronics,North,3,65000,11,UPI
+2025-08-11,O0125,C102,Keyboard,Electronics,East,4,1800,13,Debit Card
+2025-06-30,O0126,C042,Wireless Mouse,Electronics,South,5,1200,7,Credit Card
+2025-02-17,O0127,C054,Office Chair,Furniture,East,4,8500,15,Cash
+2025-03-02,O0128,C117,Notebook,Stationery,West,1,180,13,Debit Card
+2025-08-03,O0129,C002,Headphones,Electronics,South,1,3200,12,Cash
+2025-11-05,O0130,C046,Office Chair,Furniture,West,3,8500,1,Debit Card
+2025-05-18,O0131,C018,Keyboard,Electronics,South,4,1800,13,UPI
+2025-08-08,O0132,C084,Wireless Mouse,Electronics,West,1,1200,11,UPI
+2025-05-27,O0133,C017,Pen Set,Stationery,West,4,250,10,Credit Card
+2025-01-05,O0134,C008,Laptop,Electronics,East,5,65000,12,Debit Card
+2025-01-19,O0135,C084,Notebook,Stationery,South,4,180,6,Debit Card
+2025-05-17,O0136,C002,Wireless Mouse,Electronics,West,2,1200,3,Credit Card
+2025-09-26,O0137,C107,Wireless Mouse,Electronics,West,4,1200,8,Debit Card
+2025-03-26,O0138,C005,Laptop,Electronics,East,1,65000,5,UPI
+2025-01-19,O0139,C090,Water Bottle,Accessories,East,3,700,14,Debit Card
+2025-11-13,O0140,C088,Desk,Furniture,South,3,12000,8,Cash
+2025-06-01,O0141,C024,Pen Set,Stationery,South,3,250,0,UPI
+2025-08-16,O0142,C015,Office Chair,Furniture,South,2,8500,1,Cash
+2025-11-25,O0143,C012,Laptop,Electronics,North,4,65000,5,Cash
+2025-09-16,O0144,C011,Laptop,Electronics,West,1,65000,5,Cash
+2025-12-12,O0145,C021,Wireless Mouse,Electronics,North,3,1200,1,Cash
+2025-02-04,O0146,C111,Keyboard,Electronics,South,2,1800,2,Debit Card
+2025-05-15,O0147,C072,Pen Set,Stationery,West,1,250,11,Debit Card
+2025-08-26,O0148,C049,Water Bottle,Accessories,East,3,700,9,Cash
+2025-07-29,O0149,C019,Desk,Furniture,West,5,12000,9,Debit Card
+2025-07-09,O0150,C053,Notebook,Stationery,West,5,180,12,UPI
+2025-09-05,O0151,C066,Headphones,Electronics,North,3,3200,0,Credit Card
+2025-05-26,O0152,C025,Headphones,Electronics,West,3,3200,14,Credit Card
+2025-07-10,O0153,C044,Desk,Furniture,North,4,12000,4,UPI
+2025-05-07,O0154,C074,Backpack,Accessories,West,1,1800,8,UPI
+2025-08-14,O0155,C099,Wireless Mouse,Electronics,North,4,1200,9,Cash
+2025-09-10,O0156,C112,Desk,Furniture,North,1,12000,9,Debit Card
+2025-06-20,O0157,C111,Wireless Mouse,Electronics,North,5,1200,9,Cash
+2025-02-01,O0158,C105,Laptop,Electronics,South,3,65000,3,Cash
+2025-03-25,O0159,C008,Notebook,Stationery,North,3,180,6,Credit Card
+2025-02-24,O0160,C069,Desk,Furniture,South,4,12000,5,Credit Card
+2025-06-10,O0161,C019,Pen Set,Stationery,South,5,250,5,UPI
+2025-04-27,O0162,C024,Keyboard,Electronics,South,4,1800,14,UPI
+2025-11-09,O0163,C066,Headphones,Electronics,West,3,3200,12,Cash
+2025-10-02,O0164,C081,Keyboard,Electronics,South,5,1800,6,UPI
+2025-08-23,O0165,C060,Laptop,Electronics,North,4,65000,1,UPI
+2025-03-09,O0166,C044,Desk,Furniture,North,2,12000,15,Cash
+2025-09-26,O0167,C063,Water Bottle,Accessories,East,4,700,9,Credit Card
+2025-12-05,O0168,C066,Notebook,Stationery,East,1,180,5,Credit Card
+2025-12-10,O0169,C053,Keyboard,Electronics,West,2,1800,11,Credit Card
+2025-06-19,O0170,C030,Laptop,Electronics,North,1,65000,4,Credit Card
+2025-06-08,O0171,C028,Pen Set,Stationery,West,4,250,0,Cash
+2025-07-30,O0172,C094,Desk,Furniture,East,1,12000,12,UPI
+2025-12-21,O0173,C029,Water Bottle,Accessories,North,2,700,1,Debit Card
+2025-10-03,O0174,C046,Pen Set,Stationery,West,1,250,9,UPI
+2025-10-12,O0175,C109,Office Chair,Furniture,East,5,8500,15,Debit Card
+2025-08-05,O0176,C036,Pen Set,Stationery,North,1,250,10,Cash
+2025-02-26,O0177,C052,Desk,Furniture,North,1,12000,7,Credit Card
+2025-05-06,O0178,C027,Desk,Furniture,West,4,12000,6,Debit Card
+2025-02-08,O0179,C046,Headphones,Electronics,East,3,3200,7,Cash
+2025-08-25,O0180,C060,Laptop,Electronics,South,2,65000,8,Debit Card
+2025-01-19,O0181,C036,Office Chair,Furniture,North,4,8500,15,Credit Card
+2025-09-24,O0182,C083,Keyboard,Electronics,North,1,1800,6,Cash
+2025-12-22,O0183,C018,Headphones,Electronics,South,1,3200,11,Debit Card
+2025-04-25,O0184,C042,Water Bottle,Accessories,North,1,700,11,Cash
+2025-10-23,O0185,C103,Pen Set,Stationery,North,4,250,7,Cash
+2025-12-19,O0186,C012,Desk,Furniture,West,2,12000,0,UPI
+2025-08-31,O0187,C001,Notebook,Stationery,East,2,180,1,Debit Card
+2025-10-15,O0188,C044,Water Bottle,Accessories,South,2,700,6,Debit Card
+2025-09-16,O0189,C007,Backpack,Accessories,East,3,1800,12,UPI
+2025-04-02,O0190,C047,Keyboard,Electronics,East,5,1800,11,UPI
+2025-02-17,O0191,C070,Notebook,Stationery,West,1,180,13,UPI
+2025-10-24,O0192,C108,Water Bottle,Accessories,East,5,700,5,UPI
+2025-12-29,O0193,C020,Laptop,Electronics,West,5,65000,4,UPI
+2025-05-29,O0194,C043,Backpack,Accessories,West,2,1800,12,Cash
+2025-03-04,O0195,C061,Desk,Furniture,South,2,12000,0,Cash
+2025-07-17,O0196,C022,Water Bottle,Accessories,East,1,700,5,Credit Card
+2025-07-13,O0197,C076,Desk,Furniture,South,2,12000,14,Debit Card
+2025-03-20,O0198,C039,Laptop,Electronics,East,5,65000,4,Cash
+2025-01-11,O0199,C102,Headphones,Electronics,North,1,3200,4,Cash
+2025-06-03,O0200,C118,Keyboard,Electronics,North,4,1800,14,UPI
+2025-12-24,O0201,C099,Notebook,Stationery,West,1,180,6,Debit Card
+2025-09-30,O0202,C034,Keyboard,Electronics,North,3,1800,0,Cash
+2025-09-21,O0203,C022,Laptop,Electronics,North,1,65000,9,UPI
+2025-05-24,O0204,C104,Headphones,Electronics,East,5,3200,4,Debit Card
+2025-06-25,O0205,C056,Laptop,Electronics,West,3,65000,15,Credit Card
+2025-02-12,O0206,C090,Laptop,Electronics,North,5,65000,9,Debit Card
+2025-09-17,O0207,C055,Keyboard,Electronics,South,4,1800,6,Cash
+2025-12-09,O0208,C051,Wireless Mouse,Electronics,North,1,1200,0,Credit Card
+2025-02-10,O0209,C082,Office Chair,Furniture,East,4,8500,7,Credit Card
+2025-05-05,O0210,C065,Wireless Mouse,Electronics,South,1,1200,10,Cash
+2025-10-21,O0211,C038,Office Chair,Furniture,East,3,8500,5,UPI
+2025-10-15,O0212,C120,Water Bottle,Accessories,South,5,700,9,Cash
+2025-07-23,O0213,C114,Keyboard,Electronics,North,4,1800,8,Credit Card
+2025-03-20,O0214,C045,Office Chair,Furniture,South,2,8500,15,Cash
+2025-05-12,O0215,C104,Wireless Mouse,Electronics,West,2,1200,15,Debit Card
+2025-04-26,O0216,C073,Notebook,Stationery,North,5,180,7,Debit Card
+2025-10-07,O0217,C046,Keyboard,Electronics,North,2,1800,15,UPI
+2025-05-19,O0218,C011,Notebook,Stationery,South,3,180,2,Cash
+2025-03-12,O0219,C092,Wireless Mouse,Electronics,West,4,1200,10,Credit Card
+2025-12-17,O0220,C037,Keyboard,Electronics,East,5,1800,6,UPI
+2025-07-17,O0221,C016,Headphones,Electronics,North,1,3200,2,Credit Card
+2025-01-03,O0222,C078,Desk,Furniture,West,5,12000,10,Debit Card
+2025-09-28,O0223,C020,Water Bottle,Accessories,West,5,700,1,Credit Card
+2025-02-23,O0224,C008,Pen Set,Stationery,North,4,250,6,Debit Card
+2025-05-08,O0225,C103,Notebook,Stationery,South,3,180,9,Debit Card
+2025-10-09,O0226,C051,Headphones,Electronics,South,5,3200,6,Debit Card
+2025-06-02,O0227,C017,Notebook,Stationery,South,2,180,8,Credit Card
+2025-08-03,O0228,C106,Office Chair,Furniture,West,5,8500,11,UPI
+2025-10-10,O0229,C060,Water Bottle,Accessories,South,1,700,15,Credit Card
+2025-01-07,O0230,C047,Pen Set,Stationery,North,5,250,11,Credit Card
+2025-03-10,O0231,C030,Wireless Mouse,Electronics,South,2,1200,0,Debit Card
+2025-12-15,O0232,C103,Headphones,Electronics,North,2,3200,6,Debit Card
+2025-05-24,O0233,C105,Pen Set,Stationery,West,2,250,4,UPI
+2025-05-01,O0234,C013,Headphones,Electronics,South,3,3200,13,Debit Card
+2025-10-16,O0235,C073,Wireless Mouse,Electronics,South,1,1200,9,Credit Card
+2025-03-29,O0236,C028,Laptop,Electronics,East,1,65000,15,Debit Card
+2025-01-13,O0237,C093,Office Chair,Furniture,West,3,8500,2,Cash
+2025-11-20,O0238,C092,Office Chair,Furniture,West,1,8500,0,UPI
+2025-03-03,O0239,C074,Office Chair,Furniture,South,2,8500,6,Cash
+2025-05-03,O0240,C097,Water Bottle,Accessories,South,3,700,10,Cash
+2025-09-04,O0241,C074,Office Chair,Furniture,West,3,8500,12,Credit Card
+2025-04-17,O0242,C073,Headphones,Electronics,South,4,3200,12,UPI
+2025-01-01,O0243,C016,Backpack,Accessories,South,4,1800,10,Credit Card
+2025-08-31,O0244,C018,Office Chair,Furniture,South,1,8500,7,Cash
+2025-06-09,O0245,C098,Pen Set,Stationery,South,1,250,8,UPI
+2025-10-20,O0246,C060,Office Chair,Furniture,East,3,8500,11,Debit Card
+2025-06-02,O0247,C087,Wireless Mouse,Electronics,East,1,1200,15,Cash
+2025-11-12,O0248,C061,Desk,Furniture,West,5,12000,1,Cash
+2025-06-07,O0249,C046,Backpack,Accessories,South,3,1800,2,Credit Card
+2025-02-15,O0250,C057,Water Bottle,Accessories,South,2,700,2,Cash
+2025-04-11,O0251,C049,Office Chair,Furniture,West,5,8500,6,Cash
+2025-11-10,O0252,C046,Water Bottle,Accessories,South,1,700,11,Credit Card
+2025-06-08,O0253,C068,Laptop,Electronics,East,4,65000,5,Credit Card
+2025-03-15,O0254,C058,Office Chair,Furniture,North,5,8500,1,Cash
+2025-08-10,O0255,C106,Office Chair,Furniture,West,3,8500,4,Cash
+2025-11-02,O0256,C018,Laptop,Electronics,North,5,65000,14,Credit Card
+2025-08-15,O0257,C038,Office Chair,Furniture,South,3,8500,7,Debit Card
+2025-08-30,O0258,C095,Notebook,Stationery,East,4,180,4,Debit Card
+2025-01-30,O0259,C029,Water Bottle,Accessories,South,1,700,6,UPI
+2025-12-19,O0260,C017,Backpack,Accessories,South,4,1800,3,UPI
+2025-11-06,O0261,C010,Notebook,Stationery,North,5,180,5,Debit Card
+2025-10-31,O0262,C075,Office Chair,Furniture,South,3,8500,0,Credit Card
+2025-08-08,O0263,C084,Wireless Mouse,Electronics,South,4,1200,3,Cash
+2025-11-01,O0264,C021,Wireless Mouse,Electronics,West,3,1200,8,Debit Card
+2025-03-28,O0265,C021,Notebook,Stationery,East,2,180,11,Debit Card
+2025-07-18,O0266,C001,Wireless Mouse,Electronics,South,1,1200,9,Credit Card
+2025-05-31,O0267,C074,Backpack,Accessories,East,4,1800,9,Cash
+2025-12-30,O0268,C046,Water Bottle,Accessories,South,3,700,0,Cash
+2025-12-26,O0269,C071,Wireless Mouse,Electronics,West,1,1200,10,Debit Card
+2025-01-30,O0270,C007,Office Chair,Furniture,East,1,8500,7,Debit Card
+2025-04-10,O0271,C018,Headphones,Electronics,North,5,3200,1,Credit Card
+2025-01-29,O0272,C091,Wireless Mouse,Electronics,West,2,1200,9,UPI
+2025-09-19,O0273,C025,Laptop,Electronics,North,3,65000,10,UPI
+2025-12-25,O0274,C118,Backpack,Accessories,East,3,1800,11,Cash
+2025-08-19,O0275,C020,Office Chair,Furniture,West,3,8500,13,Debit Card
+2025-05-02,O0276,C112,Wireless Mouse,Electronics,East,2,1200,6,Credit Card
+2025-10-19,O0277,C076,Notebook,Stationery,South,2,180,3,Cash
+2025-08-24,O0278,C078,Backpack,Accessories,East,5,1800,9,Credit Card
+2025-11-10,O0279,C017,Office Chair,Furniture,North,3,8500,13,Credit Card
+2025-08-11,O0280,C002,Laptop,Electronics,West,4,65000,12,Credit Card
+2025-05-18,O0281,C011,Office Chair,Furniture,South,3,8500,2,Cash
+2025-10-26,O0282,C053,Water Bottle,Accessories,North,1,700,1,Cash
+2025-11-19,O0283,C046,Backpack,Accessories,North,3,1800,14,Debit Card
+2025-01-31,O0284,C051,Water Bottle,Accessories,West,3,700,11,Debit Card
+2025-02-16,O0285,C033,Water Bottle,Accessories,North,5,700,3,UPI
+2025-07-05,O0286,C097,Keyboard,Electronics,South,5,1800,4,Cash
+2025-12-01,O0287,C081,Desk,Furniture,West,3,12000,0,UPI
+2025-04-14,O0288,C021,Wireless Mouse,Electronics,West,3,1200,15,UPI
+2025-12-08,O0289,C106,Office Chair,Furniture,West,5,8500,5,Credit Card
+2025-11-25,O0290,C081,Water Bottle,Accessories,North,4,700,4,Cash
+2025-01-15,O0291,C029,Desk,Furniture,North,5,12000,15,Debit Card
+2025-03-17,O0292,C003,Laptop,Electronics,East,1,65000,0,Debit Card
+2025-12-30,O0293,C043,Wireless Mouse,Electronics,East,3,1200,1,UPI
+2025-03-25,O0294,C076,Laptop,Electronics,South,2,65000,14,Cash
+2025-10-24,O0295,C068,Wireless Mouse,Electronics,North,2,1200,3,Debit Card
+2025-07-26,O0296,C047,Laptop,Electronics,South,4,65000,5,Cash
+2025-01-31,O0297,C008,Backpack,Accessories,South,5,1800,1,Debit Card
+2025-10-18,O0298,C071,Notebook,Stationery,East,3,180,14,UPI
+2025-04-01,O0299,C058,Notebook,Stationery,East,3,180,15,UPI
+2025-06-27,O0300,C118,Wireless Mouse,Electronics,East,1,1200,5,Cash
+2025-12-14,O0301,C100,Office Chair,Furniture,West,3,8500,0,Debit Card
+2025-07-14,O0302,C039,Desk,Furniture,North,5,12000,10,Debit Card
+2025-10-11,O0303,C084,Desk,Furniture,North,4,12000,0,UPI
+2025-02-27,O0304,C061,Notebook,Stationery,West,2,180,8,Credit Card
+2025-02-14,O0305,C082,Wireless Mouse,Electronics,North,2,1200,7,Debit Card
+2025-10-12,O0306,C006,Water Bottle,Accessories,South,1,700,9,UPI
+2025-01-07,O0307,C050,Headphones,Electronics,North,3,3200,9,UPI
+2025-04-19,O0308,C001,Water Bottle,Accessories,North,4,700,1,Cash
+2025-07-07,O0309,C018,Notebook,Stationery,East,1,180,1,Credit Card
+2025-03-24,O0310,C117,Desk,Furniture,North,3,12000,6,Cash
+2025-07-15,O0311,C111,Laptop,Electronics,North,1,65000,12,UPI
+2025-05-31,O0312,C068,Desk,Furniture,North,1,12000,13,Debit Card
+2025-09-05,O0313,C058,Keyboard,Electronics,East,5,1800,13,Debit Card
+2025-02-26,O0314,C064,Wireless Mouse,Electronics,North,4,1200,8,Cash
+2025-11-14,O0315,C033,Headphones,Electronics,North,2,3200,11,Credit Card
+2025-03-12,O0316,C055,Desk,Furniture,North,4,12000,10,Cash
+2025-08-16,O0317,C083,Keyboard,Electronics,East,3,1800,7,UPI
+2025-06-06,O0318,C074,Laptop,Electronics,South,1,65000,1,Debit Card
+2025-07-01,O0319,C047,Notebook,Stationery,East,2,180,5,Cash
+2025-07-31,O0320,C014,Wireless Mouse,Electronics,West,3,1200,7,UPI
+2025-06-10,O0321,C020,Backpack,Accessories,West,2,1800,2,Cash
+2025-11-23,O0322,C016,Wireless Mouse,Electronics,North,3,1200,5,UPI
+2025-07-24,O0323,C022,Backpack,Accessories,East,5,1800,12,Cash
+2025-04-17,O0324,C035,Pen Set,Stationery,North,1,250,15,Credit Card
+2025-03-22,O0325,C040,Pen Set,Stationery,South,1,250,8,Cash
+2025-02-08,O0326,C074,Backpack,Accessories,North,4,1800,14,Cash
+2025-06-28,O0327,C070,Pen Set,Stationery,North,4,250,8,Cash
+2025-11-11,O0328,C048,Desk,Furniture,North,4,12000,1,UPI
+2025-01-07,O0329,C081,Laptop,Electronics,East,4,65000,7,Cash
+2025-07-28,O0330,C098,Notebook,Stationery,West,4,180,12,UPI
+2025-11-08,O0331,C075,Headphones,Electronics,South,3,3200,10,Debit Card
+2025-07-01,O0332,C110,Notebook,Stationery,West,4,180,15,UPI
+2025-10-28,O0333,C114,Keyboard,Electronics,North,1,1800,5,UPI
+2025-11-29,O0334,C042,Wireless Mouse,Electronics,North,1,1200,14,Cash
+2025-01-30,O0335,C096,Wireless Mouse,Electronics,North,1,1200,4,Credit Card
+2025-04-12,O0336,C034,Desk,Furniture,South,2,12000,0,Cash
+2025-10-19,O0337,C064,Pen Set,Stationery,North,2,250,15,Debit Card
+2025-08-15,O0338,C003,Desk,Furniture,North,2,12000,10,Credit Card
+2025-11-14,O0339,C061,Desk,Furniture,North,3,12000,12,Credit Card
+2025-07-08,O0340,C090,Wireless Mouse,Electronics,West,3,1200,12,Debit Card
+2025-03-22,O0341,C015,Headphones,Electronics,West,4,3200,8,Credit Card
+2025-05-11,O0342,C027,Desk,Furniture,East,5,12000,15,Credit Card
+2025-06-13,O0343,C031,Office Chair,Furniture,East,3,8500,13,UPI
+2025-05-02,O0344,C004,Backpack,Accessories,East,5,1800,15,Cash
+2025-12-05,O0345,C037,Wireless Mouse,Electronics,West,3,1200,0,UPI
+2025-11-29,O0346,C073,Headphones,Electronics,North,4,3200,10,Debit Card
+2025-12-26,O0347,C099,Office Chair,Furniture,South,1,8500,15,Credit Card
+2025-09-11,O0348,C086,Office Chair,Furniture,West,2,8500,13,UPI
+2025-03-11,O0349,C094,Water Bottle,Accessories,West,4,700,3,UPI
+2025-04-18,O0350,C119,Pen Set,Stationery,South,5,250,10,UPI
+2025-10-25,O0351,C092,Pen Set,Stationery,East,4,250,12,Debit Card
+2025-07-12,O0352,C109,Desk,Furniture,West,4,12000,1,Cash
+2025-04-19,O0353,C007,Water Bottle,Accessories,South,5,700,0,Debit Card
+2025-08-15,O0354,C005,Office Chair,Furniture,South,3,8500,8,Debit Card
+2025-04-20,O0355,C094,Keyboard,Electronics,West,4,1800,9,Credit Card
+2025-08-27,O0356,C052,Backpack,Accessories,North,2,1800,2,Debit Card
+2025-04-18,O0357,C004,Backpack,Accessories,West,3,1800,12,Cash
+2025-09-07,O0358,C044,Keyboard,Electronics,North,1,1800,8,Debit Card
+2025-06-14,O0359,C110,Headphones,Electronics,East,1,3200,4,UPI
+2025-08-20,O0360,C067,Desk,Furniture,North,2,12000,5,UPI
+2025-08-23,O0361,C105,Keyboard,Electronics,South,4,1800,13,Credit Card
+2025-06-06,O0362,C113,Water Bottle,Accessories,South,5,700,2,Credit Card
+2025-09-02,O0363,C070,Pen Set,Stationery,East,5,250,7,Credit Card
+2025-10-06,O0364,C032,Keyboard,Electronics,North,1,1800,0,UPI
+2025-10-01,O0365,C110,Notebook,Stationery,East,5,180,6,UPI
+2025-09-16,O0366,C120,Water Bottle,Accessories,East,4,700,12,UPI
+2025-03-23,O0367,C106,Desk,Furniture,South,4,12000,4,Cash
+2025-11-01,O0368,C027,Keyboard,Electronics,North,4,1800,6,Debit Card
+2025-08-30,O0369,C063,Keyboard,Electronics,North,1,1800,4,Debit Card
+2025-01-11,O0370,C113,Backpack,Accessories,North,5,1800,5,Debit Card
+2025-04-17,O0371,C088,Keyboard,Electronics,West,4,1800,9,Credit Card
+2025-05-28,O0372,C028,Keyboard,Electronics,South,2,1800,4,Credit Card
+2025-05-01,O0373,C040,Headphones,Electronics,North,4,3200,1,Debit Card
+2025-03-07,O0374,C086,Headphones,Electronics,South,2,3200,14,Cash
+2025-09-24,O0375,C089,Office Chair,Furniture,East,4,8500,1,UPI
+2025-08-22,O0376,C090,Headphones,Electronics,South,4,3200,0,Credit Card
+2025-03-28,O0377,C010,Wireless Mouse,Electronics,South,4,1200,6,Cash
+2025-12-09,O0378,C101,Laptop,Electronics,East,4,65000,5,Cash
+2025-11-13,O0379,C108,Headphones,Electronics,East,4,3200,5,UPI
+2025-01-20,O0380,C077,Pen Set,Stationery,North,1,250,9,Cash
+2025-05-12,O0381,C002,Laptop,Electronics,South,1,65000,4,Credit Card
+2025-04-07,O0382,C007,Laptop,Electronics,South,5,65000,9,Credit Card
+2025-12-25,O0383,C050,Wireless Mouse,Electronics,East,4,1200,4,Credit Card
+2025-08-17,O0384,C052,Wireless Mouse,Electronics,West,1,1200,4,Cash
+2025-09-07,O0385,C083,Desk,Furniture,North,5,12000,8,Debit Card
+2025-08-22,O0386,C011,Pen Set,Stationery,East,1,250,2,Cash
+2025-04-23,O0387,C046,Laptop,Electronics,East,2,65000,5,Debit Card
+2025-03-09,O0388,C072,Backpack,Accessories,South,1,1800,7,Debit Card
+2025-10-05,O0389,C059,Pen Set,Stationery,North,3,250,4,Cash
+2025-07-09,O0390,C027,Wireless Mouse,Electronics,West,4,1200,0,UPI
+2025-08-27,O0391,C010,Keyboard,Electronics,West,1,1800,14,Credit Card
+2025-12-30,O0392,C082,Desk,Furniture,East,1,12000,14,UPI
+2025-01-28,O0393,C039,Keyboard,Electronics,North,1,1800,14,Cash
+2025-01-05,O0394,C068,Desk,Furniture,East,3,12000,5,Debit Card
+2025-01-12,O0395,C007,Water Bottle,Accessories,South,2,700,12,Credit Card
+2025-12-22,O0396,C039,Backpack,Accessories,East,3,1800,9,Cash
+2025-02-23,O0397,C023,Notebook,Stationery,West,1,180,8,Cash
+2025-04-02,O0398,C025,Water Bottle,Accessories,West,5,700,4,Cash
+2025-11-19,O0399,C031,Wireless Mouse,Electronics,East,4,1200,15,Credit Card
+2025-12-08,O0400,C054,Wireless Mouse,Electronics,East,4,1200,11,UPI
+2025-08-25,O0401,C082,Water Bottle,Accessories,West,4,700,12,Debit Card
+2025-02-06,O0402,C081,Pen Set,Stationery,North,5,250,2,Cash
+2025-10-12,O0403,C118,Pen Set,Stationery,East,1,250,3,Cash
+2025-10-27,O0404,C027,Desk,Furniture,South,3,12000,11,Credit Card
+2025-01-03,O0405,C070,Keyboard,Electronics,South,1,1800,8,Credit Card
+2025-02-27,O0406,C040,Desk,Furniture,West,2,12000,13,Cash
+2025-08-29,O0407,C043,Office Chair,Furniture,West,5,8500,8,Credit Card
+2025-10-19,O0408,C060,Headphones,Electronics,North,2,3200,4,Debit Card
+2025-03-27,O0409,C010,Notebook,Stationery,East,4,180,5,Cash
+2025-03-02,O0410,C091,Water Bottle,Accessories,South,3,700,2,Credit Card
+2025-01-17,O0411,C062,Desk,Furniture,North,4,12000,8,Debit Card
+2025-09-06,O0412,C104,Backpack,Accessories,West,5,1800,3,Cash
+2025-12-08,O0413,C044,Desk,Furniture,South,5,12000,0,Cash
+2025-04-28,O0414,C008,Wireless Mouse,Electronics,North,2,1200,12,Credit Card
+2025-10-01,O0415,C103,Keyboard,Electronics,South,1,1800,3,Cash
+2025-02-02,O0416,C064,Office Chair,Furniture,North,5,8500,3,Cash
+2025-10-15,O0417,C057,Keyboard,Electronics,South,4,1800,6,Debit Card
+2025-02-02,O0418,C100,Office Chair,Furniture,East,4,8500,6,Cash
+2025-01-10,O0419,C115,Backpack,Accessories,North,2,1800,2,Cash
+2025-03-23,O0420,C083,Keyboard,Electronics,North,1,1800,0,Cash
+2025-12-01,O0421,C091,Pen Set,Stationery,East,4,250,7,Cash
+2025-06-30,O0422,C016,Headphones,Electronics,West,2,3200,11,UPI
+2025-03-13,O0423,C002,Desk,Furniture,East,3,12000,9,Cash
+2025-04-10,O0424,C005,Pen Set,Stationery,East,4,250,12,Debit Card
+2025-12-14,O0425,C051,Pen Set,Stationery,East,1,250,6,UPI
+2025-01-16,O0426,C076,Keyboard,Electronics,West,2,1800,9,Debit Card
+2025-02-28,O0427,C105,Desk,Furniture,South,4,12000,12,Credit Card
+2025-10-08,O0428,C070,Water Bottle,Accessories,South,1,700,11,UPI
+2025-09-12,O0429,C093,Keyboard,Electronics,West,4,1800,7,Debit Card
+2025-09-08,O0430,C119,Desk,Furniture,North,4,12000,13,Credit Card
+2025-05-21,O0431,C017,Wireless Mouse,Electronics,West,1,1200,13,Debit Card
+2025-05-23,O0432,C003,Pen Set,Stationery,North,4,250,12,Cash
+2025-09-15,O0433,C035,Notebook,Stationery,South,4,180,3,Debit Card
+2025-07-06,O0434,C111,Notebook,Stationery,East,1,180,13,UPI
+2025-03-20,O0435,C099,Wireless Mouse,Electronics,North,1,1200,3,Debit Card
+2025-01-31,O0436,C025,Keyboard,Electronics,East,4,1800,15,Credit Card
+2025-03-12,O0437,C080,Headphones,Electronics,West,2,3200,7,Debit Card
+2025-02-01,O0438,C068,Water Bottle,Accessories,East,5,700,1,Credit Card
+2025-08-28,O0439,C056,Notebook,Stationery,North,4,180,1,Credit Card
+2025-06-25,O0440,C064,Notebook,Stationery,South,3,180,3,Debit Card
+2025-01-22,O0441,C044,Notebook,Stationery,South,2,180,1,Debit Card
+2025-08-09,O0442,C023,Backpack,Accessories,West,1,1800,3,UPI
+2025-12-09,O0443,C097,Desk,Furniture,West,1,12000,11,Cash
+2025-12-13,O0444,C028,Notebook,Stationery,East,3,180,1,Credit Card
+2025-12-24,O0445,C042,Headphones,Electronics,North,1,3200,4,Cash
+2025-04-15,O0446,C037,Headphones,Electronics,West,4,3200,10,UPI
+2025-07-04,O0447,C059,Laptop,Electronics,East,1,65000,9,UPI
+2025-10-27,O0448,C119,Desk,Furniture,West,3,12000,13,Credit Card
+2025-10-27,O0449,C010,Keyboard,Electronics,East,5,1800,13,UPI
+2025-09-07,O0450,C075,Keyboard,Electronics,East,5,1800,15,UPI
+2025-04-13,O0451,C018,Wireless Mouse,Electronics,West,1,1200,6,UPI
+2025-07-25,O0452,C034,Office Chair,Furniture,West,4,8500,12,Debit Card
+2025-11-02,O0453,C108,Laptop,Electronics,North,4,65000,12,Credit Card
+2025-10-25,O0454,C072,Headphones,Electronics,North,3,3200,10,Credit Card
+2025-04-26,O0455,C002,Laptop,Electronics,South,3,65000,6,UPI
+2025-12-26,O0456,C040,Wireless Mouse,Electronics,North,5,1200,6,Cash
+2025-06-03,O0457,C043,Water Bottle,Accessories,East,1,700,10,Credit Card
+2025-04-25,O0458,C046,Laptop,Electronics,South,1,65000,8,Cash
+2025-03-06,O0459,C001,Laptop,Electronics,West,4,65000,4,Cash
+2025-09-30,O0460,C088,Headphones,Electronics,East,5,3200,7,Cash
+2025-05-08,O0461,C022,Wireless Mouse,Electronics,West,4,1200,13,Debit Card
+2025-12-29,O0462,C053,Wireless Mouse,Electronics,East,2,1200,3,Cash
+2025-09-07,O0463,C076,Notebook,Stationery,West,3,180,10,Credit Card
+2025-09-16,O0464,C115,Pen Set,Stationery,East,4,250,3,UPI
+2025-10-20,O0465,C110,Wireless Mouse,Electronics,North,3,1200,11,Credit Card
+2025-07-08,O0466,C025,Headphones,Electronics,North,2,3200,2,Credit Card
+2025-11-16,O0467,C055,Laptop,Electronics,East,3,65000,4,Cash
+2025-12-20,O0468,C045,Headphones,Electronics,North,3,3200,5,Debit Card
+2025-08-02,O0469,C051,Keyboard,Electronics,South,1,1800,10,Debit Card
+2025-02-02,O0470,C054,Backpack,Accessories,North,3,1800,1,Debit Card
+2025-04-11,O0471,C099,Wireless Mouse,Electronics,East,4,1200,10,Cash
+2025-07-24,O0472,C065,Desk,Furniture,North,1,12000,7,UPI
+2025-05-15,O0473,C087,Laptop,Electronics,South,5,65000,12,Cash
+2025-05-03,O0474,C038,Wireless Mouse,Electronics,East,4,1200,6,Credit Card
+2025-11-10,O0475,C011,Wireless Mouse,Electronics,West,4,1200,13,Credit Card
+2025-03-06,O0476,C096,Headphones,Electronics,East,2,3200,9,Debit Card
+2025-10-29,O0477,C116,Keyboard,Electronics,West,1,1800,10,Cash
+2025-10-18,O0478,C020,Desk,Furniture,South,2,12000,14,UPI
+2025-04-13,O0479,C074,Notebook,Stationery,North,4,180,10,Debit Card
+2025-06-08,O0480,C067,Headphones,Electronics,West,2,3200,14,Debit Card
+2025-01-02,O0481,C055,Pen Set,Stationery,West,5,250,6,Cash
+2025-09-18,O0482,C079,Notebook,Stationery,North,5,180,5,Debit Card
+2025-04-18,O0483,C025,Backpack,Accessories,South,5,1800,9,Cash
+2025-06-15,O0484,C078,Backpack,Accessories,South,5,1800,15,Cash
+2025-05-09,O0485,C001,Backpack,Accessories,East,1,1800,12,Credit Card
+2025-01-08,O0486,C086,Desk,Furniture,West,5,12000,15,Debit Card
+2025-05-24,O0487,C097,Notebook,Stationery,East,2,180,9,UPI
+2025-11-10,O0488,C088,Laptop,Electronics,South,1,65000,4,Debit Card
+2025-02-22,O0489,C009,Pen Set,Stationery,East,2,250,14,Credit Card
+2025-09-14,O0490,C050,Water Bottle,Accessories,North,5,700,7,Credit Card
+2025-01-30,O0491,C069,Wireless Mouse,Electronics,South,3,1200,13,Credit Card
+2025-06-14,O0492,C081,Wireless Mouse,Electronics,North,3,1200,1,Debit Card
+2025-04-26,O0493,C052,Headphones,Electronics,North,2,3200,9,Cash
+2025-12-25,O0494,C089,Notebook,Stationery,West,4,180,9,Credit Card
+2025-05-21,O0495,C087,Office Chair,Furniture,East,4,8500,12,Cash
+2025-02-07,O0496,C028,Wireless Mouse,Electronics,West,3,1200,5,Debit Card
+2025-12-01,O0497,C046,Desk,Furniture,South,2,12000,11,Debit Card
+2025-12-13,O0498,C107,Wireless Mouse,Electronics,West,4,1200,1,Debit Card
+2025-06-05,O0499,C085,Backpack,Accessories,West,5,1800,4,Cash
+2025-09-11,O0500,C073,Water Bottle,Accessories,West,4,700,9,Debit Card
+2025-08-28,O0501,C082,Keyboard,Electronics,East,3,1800,0,UPI
+2025-08-14,O0502,C075,Desk,Furniture,West,1,12000,15,UPI
+2025-03-22,O0503,C071,Pen Set,Stationery,East,1,250,1,UPI
+2025-02-11,O0504,C079,Wireless Mouse,Electronics,South,3,1200,0,Credit Card
+2025-05-03,O0505,C090,Desk,Furniture,East,3,12000,5,Credit Card
+2025-07-11,O0506,C076,Backpack,Accessories,West,3,1800,0,Cash
+2025-01-02,O0507,C094,Notebook,Stationery,North,3,180,8,Debit Card
+2025-08-23,O0508,C097,Notebook,Stationery,East,5,180,0,Credit Card
+2025-01-25,O0509,C091,Wireless Mouse,Electronics,South,4,1200,1,UPI
+2025-04-29,O0510,C013,Headphones,Electronics,North,1,3200,9,UPI
+2025-10-01,O0511,C050,Pen Set,Stationery,North,5,250,2,UPI
+2025-03-31,O0512,C111,Laptop,Electronics,North,5,65000,14,Debit Card
+2025-07-31,O0513,C097,Water Bottle,Accessories,East,4,700,13,UPI
+2025-01-21,O0514,C113,Office Chair,Furniture,East,4,8500,6,Cash
+2025-09-05,O0515,C006,Desk,Furniture,West,3,12000,9,Cash
+2025-08-05,O0516,C095,Office Chair,Furniture,West,1,8500,6,UPI
+2025-01-24,O0517,C021,Wireless Mouse,Electronics,North,2,1200,2,UPI
+2025-12-23,O0518,C019,Backpack,Accessories,North,3,1800,8,Credit Card
+2025-12-11,O0519,C056,Pen Set,Stationery,North,4,250,2,Credit Card
+2025-10-28,O0520,C105,Backpack,Accessories,East,5,1800,6,UPI
+2025-04-22,O0521,C033,Backpack,Accessories,North,3,1800,5,Credit Card
+2025-03-01,O0522,C075,Backpack,Accessories,South,5,1800,9,UPI
+2025-10-10,O0523,C098,Office Chair,Furniture,East,3,8500,10,Credit Card
+2025-05-22,O0524,C062,Water Bottle,Accessories,North,4,700,9,UPI
+2025-01-30,O0525,C007,Desk,Furniture,South,5,12000,5,Debit Card
+2025-04-14,O0526,C015,Water Bottle,Accessories,North,4,700,9,Debit Card
+2025-09-23,O0527,C035,Office Chair,Furniture,North,3,8500,14,Credit Card
+2025-06-30,O0528,C091,Pen Set,Stationery,West,4,250,4,Cash
+2025-01-17,O0529,C092,Laptop,Electronics,North,2,65000,12,Cash
+2025-03-21,O0530,C017,Wireless Mouse,Electronics,West,2,1200,12,Cash
+2025-12-04,O0531,C006,Laptop,Electronics,North,5,65000,5,Credit Card
+2025-12-11,O0532,C059,Backpack,Accessories,North,1,1800,1,Cash
+2025-08-20,O0533,C038,Backpack,Accessories,South,1,1800,8,Credit Card
+2025-06-16,O0534,C035,Water Bottle,Accessories,North,2,700,14,UPI
+2025-04-30,O0535,C037,Headphones,Electronics,South,5,3200,3,Cash
+2025-06-05,O0536,C059,Keyboard,Electronics,West,5,1800,3,UPI
+2025-08-25,O0537,C093,Keyboard,Electronics,East,5,1800,7,UPI
+2025-06-02,O0538,C115,Office Chair,Furniture,West,3,8500,3,UPI
+2025-06-21,O0539,C056,Wireless Mouse,Electronics,West,2,1200,1,Debit Card
+2025-07-28,O0540,C085,Desk,Furniture,West,4,12000,14,Cash
+2025-07-27,O0541,C093,Pen Set,Stationery,East,3,250,5,Cash
+2025-03-05,O0542,C081,Headphones,Electronics,West,3,3200,6,Debit Card
+2025-03-22,O0543,C117,Wireless Mouse,Electronics,South,3,1200,5,UPI
+2025-04-11,O0544,C089,Backpack,Accessories,South,3,1800,0,Credit Card
+2025-10-20,O0545,C073,Pen Set,Stationery,West,2,250,5,UPI
+2025-02-27,O0546,C039,Wireless Mouse,Electronics,North,5,1200,0,Debit Card
+2025-06-08,O0547,C026,Laptop,Electronics,West,5,65000,4,Debit Card
+2025-02-19,O0548,C047,Headphones,Electronics,West,4,3200,7,Cash
+2025-05-05,O0549,C061,Wireless Mouse,Electronics,West,1,1200,10,Credit Card
+2025-11-16,O0550,C019,Keyboard,Electronics,East,4,1800,2,UPI
+2025-08-19,O0551,C059,Backpack,Accessories,North,4,1800,2,Cash
+2025-01-03,O0552,C099,Laptop,Electronics,West,2,65000,12,UPI
+2025-08-08,O0553,C053,Desk,Furniture,East,4,12000,12,Debit Card
+2025-09-22,O0554,C032,Notebook,Stationery,North,5,180,5,Debit Card
+2025-01-15,O0555,C017,Water Bottle,Accessories,West,1,700,11,Cash
+2025-01-04,O0556,C066,Pen Set,Stationery,West,3,250,2,UPI
+2025-05-20,O0557,C016,Notebook,Stationery,North,3,180,4,Cash
+2025-05-13,O0558,C111,Notebook,Stationery,South,3,180,1,Cash
+2025-08-06,O0559,C012,Water Bottle,Accessories,North,4,700,4,UPI
+2025-07-02,O0560,C051,Pen Set,Stationery,North,5,250,15,Cash
+2025-03-16,O0561,C053,Wireless Mouse,Electronics,West,5,1200,2,Cash
+2025-04-25,O0562,C118,Notebook,Stationery,East,4,180,6,Credit Card
+2025-10-25,O0563,C074,Headphones,Electronics,South,2,3200,12,UPI
+2025-11-04,O0564,C038,Backpack,Accessories,South,4,1800,10,Cash
+2025-07-10,O0565,C021,Wireless Mouse,Electronics,West,5,1200,2,Credit Card
+2025-09-15,O0566,C028,Pen Set,Stationery,East,3,250,14,Cash
+2025-07-30,O0567,C107,Office Chair,Furniture,East,1,8500,12,Credit Card
+2025-12-23,O0568,C012,Laptop,Electronics,South,4,65000,7,UPI
+2025-07-06,O0569,C111,Keyboard,Electronics,South,3,1800,13,Debit Card
+2025-05-02,O0570,C055,Pen Set,Stationery,North,2,250,11,Cash
+2025-03-28,O0571,C102,Wireless Mouse,Electronics,West,4,1200,11,UPI
+2025-02-22,O0572,C019,Headphones,Electronics,East,4,3200,9,Debit Card
+2025-06-16,O0573,C069,Backpack,Accessories,East,4,1800,9,UPI
+2025-06-19,O0574,C057,Notebook,Stationery,North,4,180,1,Cash
+2025-08-25,O0575,C029,Laptop,Electronics,South,4,65000,15,Debit Card
+2025-03-31,O0576,C074,Office Chair,Furniture,North,3,8500,6,Cash
+2025-12-08,O0577,C070,Backpack,Accessories,North,3,1800,5,Debit Card
+2025-01-17,O0578,C058,Notebook,Stationery,South,4,180,5,Credit Card
+2025-12-14,O0579,C107,Office Chair,Furniture,North,5,8500,12,Debit Card
+2025-09-10,O0580,C102,Desk,Furniture,North,5,12000,15,UPI
+2025-04-24,O0581,C018,Pen Set,Stationery,North,2,250,1,Debit Card
+2025-03-30,O0582,C065,Wireless Mouse,Electronics,East,2,1200,7,Credit Card
+2025-04-04,O0583,C091,Laptop,Electronics,East,2,65000,9,UPI
+2025-10-02,O0584,C014,Headphones,Electronics,North,4,3200,14,Credit Card
+2025-03-30,O0585,C097,Laptop,Electronics,East,3,65000,1,UPI
+2025-07-02,O0586,C109,Office Chair,Furniture,North,2,8500,2,UPI
+2025-07-23,O0587,C010,Keyboard,Electronics,East,4,1800,10,Debit Card
+2025-09-22,O0588,C034,Backpack,Accessories,West,5,1800,0,UPI
+2025-03-28,O0589,C025,Wireless Mouse,Electronics,East,4,1200,3,Debit Card
+2025-07-07,O0590,C066,Laptop,Electronics,East,4,65000,8,Credit Card
+2025-07-08,O0591,C099,Desk,Furniture,South,2,12000,8,Credit Card
+2025-06-12,O0592,C006,Office Chair,Furniture,East,2,8500,15,UPI
+2025-06-03,O0593,C001,Desk,Furniture,East,1,12000,2,Cash
+2025-10-20,O0594,C030,Desk,Furniture,East,3,12000,6,Cash
+2025-12-09,O0595,C018,Headphones,Electronics,South,4,3200,2,Credit Card
+2025-12-22,O0596,C010,Desk,Furniture,West,1,12000,10,Cash
+2025-01-30,O0597,C019,Office Chair,Furniture,East,2,8500,0,Cash
+2025-10-21,O0598,C099,Office Chair,Furniture,West,3,8500,11,Cash
+2025-02-03,O0599,C082,Headphones,Electronics,East,5,3200,8,Debit Card
+2025-06-15,O0600,C117,Pen Set,Stationery,South,3,250,10,UPI
